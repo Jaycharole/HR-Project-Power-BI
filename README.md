@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1>
 
 
-<h2 align="center">Welcome to HR Project.</h2>
+<h2 align="center">Welcome to my HR Power BI Project.</h2>
 
 ---
 
