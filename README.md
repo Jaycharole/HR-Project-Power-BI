@@ -56,7 +56,15 @@ The dataset has 6 separate dataset of different days which was combined to make 
 
 ![image](https://user-images.githubusercontent.com/49811782/134735474-f89a82b7-0571-459a-a710-20d20414c351.png)
 
+![image](https://user-images.githubusercontent.com/49811782/134735597-770f52d2-e9fc-4af4-86c0-b09a26089ed3.png)
 
+![image](https://user-images.githubusercontent.com/49811782/134735609-2b2c5960-a0c4-4940-8089-31e030a3b931.png)
+
+![image](https://user-images.githubusercontent.com/49811782/134735622-d7585991-10cf-4818-8687-3692855a4e9f.png)
+
+![image](https://user-images.githubusercontent.com/49811782/134735631-736c2021-caff-463d-919b-4d63ffcbaa48.png)
+
+### Please fork the repo if you like it !! 
 ---
 <p align="left">
 <h3 align="left">Connect with me:</h3>
