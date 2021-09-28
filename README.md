@@ -11,7 +11,6 @@ Every company has a HR Department which deals with various recruitment and place
 ### Tools used:
 <p>
   <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/> </a>
-
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://webobjects2.cdw.com/is/image/CDW/5300125?$product-main$" alt="excel" width="40" height="40"/> </a>
 </p>
 
